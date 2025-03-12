@@ -9,10 +9,10 @@ My name is Ekow.
 
 ## 🚀 Checkout My Projects  
 
-- 📊 **[WaitWiz Demo](https://github.com/dwainbow/WaitWiz-Demo)** – App thats wait times at venues
+- 📊 **[WaitWiz Demo](https://github.com/dwainbow/WaitWiz-Demo)** – App that predicts wait times at venues
 - 🎮 **[FC 24 Trading Bot](https://github.com/dwainbow/FC_24_Bot)** – Automated FIFA Ultimate Team trading bot to maximize efficiency 
 - 🤖 **[Humanoid Robot (ROS)](https://github.com/dwainbow/Humanoid-Robot-ROS)** – ROS-based humanoid robot  
-- 🏎️ **[Gran Turismo Telemetry](https://github.com/dwainbow/racing)** – Telemetry data from vehicles to improve my sim racing lap times.  
+- 🏎️ **[Gran Turismo Telemetry](https://github.com/dwainbow/racing)** – Telemetry data from vehicles to improve my sim racing lap times (Still in Progress)
 
 
 
