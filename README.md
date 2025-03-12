@@ -1,11 +1,20 @@
 ## Hey there 👋
 
-My name is Ekow. I enjoy finding solutions to many problems I face. 
+My name is Ekow. 
 
 - 🌍 Created **Wait Wiz**, an app that predicts venue wait times
 - 🔧 Developed a **ROS-based system** for autonomous robots   
 - 🤖 Built a **FIFA trading bot** to automate trading and save hours of manual work  
-- 💡 Always exploring new ways to make things **faster, smarter, and more efficient**  
+- 💡 Always exploring new ways to make things **faster, smarter, and more efficient**
+
+## 🚀 Checkout My Projects  
+
+- 📊 **[WaitWiz Demo](https://github.com/dwainbow/WaitWiz-Demo)** – App thats wait times at venues
+- 🎮 **[FC 24 Trading Bot](https://github.com/dwainbow/FC_24_Bot)** – Automated FIFA Ultimate Team trading bot to maximize efficiency 
+- 🤖 **[Humanoid Robot (ROS)](https://github.com/dwainbow/Humanoid-Robot-ROS)** – ROS-based humanoid robot  
+- 🏎️ **[Gran Turismo Telemetry](https://github.com/dwainbow/racing)** – Telemetry data from vehicles to improve my sim racing lap times.  
+
+
 
 
 ## 🌐 Socials:
