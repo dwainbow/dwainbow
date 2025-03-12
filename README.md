@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Ekow. 
+My name is Ekow
 
 - 🌍 Created **Wait Wiz**, an app that predicts venue wait times
 - 🔧 Developed a **ROS-based system** for autonomous robots   
