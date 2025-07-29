@@ -2,12 +2,9 @@
 ## 🚀 Checkout My Projects  
 
 - 📊 **[Wait Wizard Demo](https://github.com/dwainbow/WaitWiz-Demo)** – App that predicts wait times at venues
+- 🚦 **[Lumo AI](https://lumo-ai.net/map)** – Traffic Light Outage Detection in South Africa (Still in Progress)
 - 🎮 **[FC 24 Trading Bot](https://github.com/dwainbow/FC_24_Bot)** – Automated FIFA Ultimate Team trading bot to maximize efficiency 
 - 🤖 **[Humanoid Robot (ROS)](https://github.com/dwainbow/Humanoid-Robot-ROS)** – ROS-based humanoid robot  
-- 🏎️ **[Gran Turismo Telemetry](https://github.com/dwainbow/racing)** – Telemetry data from vehicles to improve my sim racing lap times (Still in Progress)
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekowdanielsss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ekow-daniels/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekowu1r@gmail.com) 
