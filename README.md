@@ -1,7 +1,7 @@
 
 ## 🚀 Checkout My Projects  
 
-- 📊 **[Wait Wizard](https://github.com/dwainbow/WaitWiz-Demo)** – App that predicts wait times at venues
+- 📊 **[Wait Wizard](https://apps.apple.com/us/app/wait-wizard/id6689492163)** – App that predicts wait times at venues
 - 🚦 **[Lumo AI](https://lumo-ai.net/map)** – Traffic Light Outage Detection in South Africa (Still in Progress)
 - 🎮 **[FC 24 Trading Bot](https://github.com/dwainbow/FC_24_Bot)** – Automated FIFA Ultimate Team trading bot to maximize efficiency 
 - 🤖 **[Humanoid Robot (ROS)](https://github.com/dwainbow/Humanoid-Robot-ROS)** – ROS-based humanoid robot  
